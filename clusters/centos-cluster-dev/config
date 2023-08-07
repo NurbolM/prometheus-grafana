@@ -1,0 +1,8 @@
+# centos-cluster-dev - the name of new dev cluster
+
+# for prometheus:
+storagesize = 15
+retentionPeriod = 3d
+
+# for grafana:
+hostname = ...

@@ -1,0 +1,8 @@
+# centos_temp_cluster - the name of dev cluster
+
+# for prometheus:
+storagesize = 15
+retentionPeriod = 1d
+
+# for grafana:
+hostname = ...
